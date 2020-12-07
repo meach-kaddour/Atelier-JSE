@@ -7,7 +7,7 @@ import java.util.HashSet;
 
 public class Collection {
 	public static void main(String[] args) {
-		/*ArrayList<String> Mois = new ArrayList<String>();
+		ArrayList<String> Mois = new ArrayList<String>();
 		Mois.add("janvier");
 		Mois.add("février");
 		Mois.add("mars");
@@ -58,15 +58,19 @@ public class Collection {
 		// for(String mois: Mois) {
 		// System.out.println(mois);
 		// }
+		 //Question 10
+		  ArrayList<String> copie = new (ArrayList<String>);
+		  copie.addAll();
+		 
 
-		// Question 10
+		// Question 11
 		// ArrayList<String> copie = (ArrayList<String>) Mois.clone();
 
 		// System.out.println(copie);
 
 		// Question 12
 		// System.out.println(Mois.isEmpty());
-		HashSet<String> mois = new HashSet<String>();
+		/*HashSet<String> mois = new HashSet<String>();
 		mois.add("janvier");
 		mois.add("février");
 		mois.add("mars");
@@ -96,7 +100,7 @@ public class Collection {
 		//System.out.println(mois.isEmpty());
 		
 		//Question 19 
-		HashMap<String, String> map = new HashMap<>();
+		/*HashMap<String, String> map = new HashMap<>();
         
         map.put("key1",  "A");
         map.put("key2",  "B");
@@ -108,13 +112,13 @@ public class Collection {
        // System.out.println(map.size());
         
         //Question 21
-        Object cloneMap=map.clone();
+       /* Object cloneMap=map.clone();
 		System.out.println(cloneMap);
 		
 		//Question 22
 		map.remove("key2");
 		System.out.println(map);
-		System.out.println(cloneMap);
+		System.out.println(cloneMap);*/
 		
 		
 		

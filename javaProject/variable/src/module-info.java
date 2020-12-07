@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Administrateur
- *
- */
-module variable {
-}
